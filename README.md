@@ -1,2 +1,2 @@
 # first_blood
-first htmls/css/js project
+first html/css/js project
